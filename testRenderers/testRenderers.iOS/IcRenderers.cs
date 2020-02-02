@@ -8,9 +8,9 @@ using UIKit;
 [assembly: ExportRenderer(typeof(LabelCol), typeof(IcRenderers))]
 namespace testRenderers.iOS
 {
-    public class IcRenderers : LabelRenderer
+    public class IcRenderers : EntryRenderer
     {
-        protected override void OnElementChanged(ElementChangedEventArgs<Label> e)
+        protected override void OnElementChanged(ElementChangedEventArgs<Entry> e)
         {
             base.OnElementChanged(e);
 

@@ -11,3 +11,15 @@
 /Users/ahmidimohamed/Projects/testRenderers/testRenderers/obj/Debug/netstandard2.0/testRenderers.dll
 /Users/ahmidimohamed/Projects/testRenderers/testRenderers/obj/Debug/netstandard2.0/ref/testRenderers.dll
 /Users/ahmidimohamed/Projects/testRenderers/testRenderers/obj/Debug/netstandard2.0/testRenderers.pdb
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/bin/Debug/netstandard2.0/testRenderers.deps.json
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/bin/Debug/netstandard2.0/testRenderers.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/bin/Debug/netstandard2.0/ref/testRenderers.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/bin/Debug/netstandard2.0/testRenderers.pdb
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/obj/Debug/netstandard2.0/testRenderers.AssemblyInfoInputs.cache
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/obj/Debug/netstandard2.0/testRenderers.AssemblyInfo.cs
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/obj/Debug/netstandard2.0/testRenderers.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/obj/Debug/netstandard2.0/ref/testRenderers.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/obj/Debug/netstandard2.0/testRenderers.pdb

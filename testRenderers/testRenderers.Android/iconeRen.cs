@@ -1,28 +1,70 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 using testRenderers.Droid;
+using Android.App;
+using Android.Content;
+using Android.Graphics;
+using Android.Graphics.Drawables;
+using Android.OS;
+using Android.Runtime;
+using Android.Support.V4.Content;
+using testRenderers;
+using Android.Views;
+using Android.Widget;
+using ImageEntry;
 using testRenderers.Controls;
 using Xamarin.Forms;
-using Android.Graphics;
 using Xamarin.Forms.Platform.Android;
-using Android.Content;
+using ImageEntry.Droid;
 
 [assembly: ExportRenderer(typeof(LabelCol), typeof(iconeRen))]
-namespace testRenderers.Droid
+namespace ImageEntry.Droid
 {
-    public class iconeRen : LabelRenderer
+    public class iconeRen : EntryRenderer
     {
+        LabelCol element;
         public iconeRen(Context context) : base(context)
         {
-
         }
-        protected override void OnElementChanged(ElementChangedEventArgs<Label> e)
+
+        protected override void OnElementChanged(ElementChangedEventArgs<Entry> e)
         {
             base.OnElementChanged(e);
+            if (e.OldElement != null || e.NewElement == null)
+                return;
 
-            if (Control != null)
+            element = (LabelCol)this.Element;
+
+
+            var editText = this.Control;
+            /*
+            if (!string.IsNullOrEmpty(element.Image))
             {
-                Control.SetBackgroundColor(global::Android.Graphics.Color.LightGreen);
+                switch (element.ImageAlignment)
+                {
+                    case ImageAlignment.Left:
+                        editText.SetCompoundDrawablesWithIntrinsicBounds(GetDrawable(element.Image), null, null, null);
+                        break;
+                    case ImageAlignment.Right:
+                        editText.SetCompoundDrawablesWithIntrinsicBounds(null, null, GetDrawable(element.Image), null);
+                        break;
+                }
             }
+            */
+            editText.CompoundDrawablePadding = 25;
+            Control.Background.SetColorFilter(element.LineColor.ToAndroid(), PorterDuff.Mode.SrcAtop);
+            
+    }
+
+        private BitmapDrawable GetDrawable(string imageEntryImage)
+        {
+            int resID = Resources.GetIdentifier(imageEntryImage, "drawable", this.Context.PackageName);
+            var drawable = ContextCompat.GetDrawable(this.Context,resID);
+            var bitmap = ((BitmapDrawable)drawable).Bitmap;
+
+            return new BitmapDrawable(Resources, Bitmap.CreateScaledBitmap(bitmap, element.ImageWidth * 2, element.ImageHeight * 2, true));
         }
     }
 }

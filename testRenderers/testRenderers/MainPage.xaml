@@ -6,7 +6,12 @@
     <StackLayout>
         <!-- Place new controls here -->
         <lb:LabelCol
+            Image="button.png"
             FontAttributes="Bold"
+            ImageAlignment="Left"
+            ImageHeight="40"
+            ImageWidth="40"
+            WidthRequest="300"
             FontSize="30"
             HorizontalOptions="CenterAndExpand"
             VerticalOptions="CenterAndExpand"

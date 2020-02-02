@@ -1,5 +1,5 @@
---cache=/Users/ahmidimohamed/Projects/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/mtouch-cache
---sim=/Users/ahmidimohamed/Projects/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/testRenderers.iOS.app
+--cache=/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/mtouch-cache
+--sim=/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/testRenderers.iOS.app
 --executable=testRenderers.iOS
  --debug
  --sgen-conc
@@ -10,7 +10,7 @@
  --aot-options=-O=-float32
  --http-message-handler=NSUrlSessionHandler
  --abi=x86_64
---symbollist=/Users/ahmidimohamed/Projects/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list
+--symbollist=/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list
  --dsym=no
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
@@ -19,7 +19,7 @@
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Numerics.Vectors.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll
--r=/Users/ahmidimohamed/Projects/testRenderers/testRenderers/bin/Debug/netstandard2.0/testRenderers.dll
+-r=/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/bin/Debug/netstandard2.0/testRenderers.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/Microsoft.Win32.Primitives.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/Microsoft.Win32.Registry.AccessControl.dll
@@ -203,7 +203,7 @@
 -r=/Users/ahmidimohamed/.nuget/packages/xamarin.forms/4.3.0.908675/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/ahmidimohamed/.nuget/packages/xamarin.forms/4.3.0.908675/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/ahmidimohamed/.nuget/packages/xamarin.forms/4.3.0.908675/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
--r=/Users/ahmidimohamed/Projects/testRenderers/testRenderers/bin/Debug/netstandard2.0/testRenderers.dll
+-r=/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/bin/Debug/netstandard2.0/testRenderers.dll
  --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/ahmidimohamed/Projects/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/testRenderers.iOS.exe
+--root-assembly=/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/testRenderers.iOS.exe
  
