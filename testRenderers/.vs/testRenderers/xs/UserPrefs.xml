@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F837BDDA-4A72-4FFC-B32F-2C29BD6AD3BD}|Default">
+  <MonoDevelop.Ide.ItemProperties.testRenderers.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9BD459DC-3CD7-4785-B68B-2176DC4A96B5" />
+  <MonoDevelop.Ide.ItemProperties.testRenderers.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="testRenderers.iOS/IcRenderers.cs">
+    <Files>
+      <File FileName="testRenderers/MainPage.xaml" Line="8" Column="21" />
+      <File FileName="testRenderers/Controls/LabelCol.cs" Line="5" Column="1" />
+      <File FileName="testRenderers.Android/iconeRen.cs" Line="8" Column="1" />
+      <File FileName="testRenderers.iOS/IcRenderers.cs" Line="15" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testRenderers" expanded="True" selected="True">
+            <Node name="testRenderers" expanded="True">
+              <Node name="Controls" expanded="True" />
+            </Node>
+            <Node name="testRenderers.Android" expanded="True" />
+            <Node name="testRenderers.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
