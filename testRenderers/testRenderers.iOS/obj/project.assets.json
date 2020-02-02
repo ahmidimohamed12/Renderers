@@ -1021,11 +1021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers.iOS/testRenderers.iOS.csproj",
+      "projectUniqueName": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/testRenderers.iOS.csproj",
       "projectName": "testRenderers.iOS",
-      "projectPath": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers.iOS/testRenderers.iOS.csproj",
+      "projectPath": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/testRenderers.iOS.csproj",
       "packagesPath": "/Users/ahmidimohamed/.nuget/packages/",
-      "outputPath": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers.iOS/obj/",
+      "outputPath": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1040,8 +1040,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj": {
-              "projectPath": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj"
+            "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj": {
+              "projectPath": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj"
             }
           }
         }

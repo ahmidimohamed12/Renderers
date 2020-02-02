@@ -5,8 +5,6 @@ using testRenderers.iOS;
 using testRenderers.Controls;
 using UIKit;
 
-
-
 [assembly: ExportRenderer(typeof(LabelCol), typeof(IcRenderers))]
 namespace testRenderers.iOS
 {

@@ -4,19 +4,21 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="testRenderers.iOS/IcRenderers.cs">
     <Files>
       <File FileName="testRenderers/MainPage.xaml" Line="8" Column="21" />
-      <File FileName="testRenderers/Controls/LabelCol.cs" Line="5" Column="1" />
-      <File FileName="testRenderers.Android/iconeRen.cs" Line="8" Column="1" />
-      <File FileName="testRenderers.iOS/IcRenderers.cs" Line="15" Column="75" />
+      <File FileName="testRenderers/Controls/LabelCol.cs" />
+      <File FileName="testRenderers.Android/iconeRen.cs" />
+      <File FileName="testRenderers.iOS/IcRenderers.cs" Line="18" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="testRenderers" expanded="True" selected="True">
+          <Node name="testRenderers" expanded="True">
             <Node name="testRenderers" expanded="True">
               <Node name="Controls" expanded="True" />
             </Node>
             <Node name="testRenderers.Android" expanded="True" />
-            <Node name="testRenderers.iOS" expanded="True" />
+            <Node name="testRenderers.iOS" expanded="True">
+              <Node name="IcRenderers.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

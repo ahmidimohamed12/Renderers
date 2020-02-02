@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj": {}
+    "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj": {}
   },
   "projects": {
-    "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj": {
+    "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj",
+        "projectUniqueName": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj",
         "projectName": "testRenderers",
-        "projectPath": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj",
+        "projectPath": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj",
         "packagesPath": "/Users/ahmidimohamed/.nuget/packages/",
-        "outputPath": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/obj/",
+        "outputPath": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmidimohamed/.config/NuGet/NuGet.Config"

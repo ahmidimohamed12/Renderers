@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmidimohamed/Projects/testRenderers/testRenderers.Android/testRenderers.Android.csproj": {}
+    "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.Android/testRenderers.Android.csproj": {}
   },
   "projects": {
-    "/Users/ahmidimohamed/Projects/testRenderers/testRenderers.Android/testRenderers.Android.csproj": {
+    "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.Android/testRenderers.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers.Android/testRenderers.Android.csproj",
+        "projectUniqueName": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.Android/testRenderers.Android.csproj",
         "projectName": "testRenderers.Android",
-        "projectPath": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers.Android/testRenderers.Android.csproj",
+        "projectPath": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.Android/testRenderers.Android.csproj",
         "packagesPath": "/Users/ahmidimohamed/.nuget/packages/",
-        "outputPath": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers.Android/obj/",
+        "outputPath": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj": {
-                "projectPath": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj"
+              "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj": {
+                "projectPath": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj"
               }
             }
           }
@@ -48,14 +48,14 @@
         }
       }
     },
-    "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj": {
+    "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj",
+        "projectUniqueName": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj",
         "projectName": "testRenderers",
-        "projectPath": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/testRenderers.csproj",
+        "projectPath": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/testRenderers.csproj",
         "packagesPath": "/Users/ahmidimohamed/.nuget/packages/",
-        "outputPath": "/Users/ahmidimohamed/Projects/testRenderers/testRenderers/obj/",
+        "outputPath": "/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmidimohamed/.config/NuGet/NuGet.Config"
