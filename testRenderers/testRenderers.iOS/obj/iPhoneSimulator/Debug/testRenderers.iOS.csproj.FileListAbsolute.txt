@@ -1,5 +1,15 @@
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/testRenderers.iOS.exe
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/testRenderers.iOS.pdb
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Lottie.iOS.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Lottie.iOS.pdb
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Lottie.Forms.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Lottie.Forms.pdb
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Lottie.Forms.iOS.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Lottie.Forms.iOS.pdb
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/IconEntry.FormsPlugin.Abstractions.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/IconEntry.FormsPlugin.iOS.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Plugin.XamJam.Screen.Abstractions.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Plugin.XamJam.Screen.dll
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
@@ -43,14 +53,16 @@
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Plugin.FilePicker.dll
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/Plugin.FilePicker.pdb
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/testRenderers.dll
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/bin/iPhoneSimulator/Debug/testRenderers.pdb
-/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
-/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
-/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
-/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
-/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
-/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_PartialAppManifest.items
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/actool/_BundleResourceWithLogicalName.items
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_PartialAppManifest.items
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone 11-13.3/optimized/
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/testRenderers.iOS.csprojAssemblyReference.cache
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/ahmidimohamed/Desktop/Renderers/testRenderers/testRenderers.iOS/obj/iPhoneSimulator/Debug/testRenderers.iOS.csproj.CopyComplete

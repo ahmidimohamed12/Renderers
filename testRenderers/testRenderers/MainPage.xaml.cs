@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
-
+using IconEntry.FormsPlugin;
 namespace testRenderers
 {
     // Learn more about making custom code visible in the Xamarin.Forms previewer
@@ -16,6 +16,12 @@ namespace testRenderers
         public MainPage()
         {
             InitializeComponent();
+            Device.StartTimer(TimeSpan.FromSeconds(4), () =>
+            {
+                Navigation.PushModalAsync(new MyPageRegistration());
+                return false;
+
+            });
         }
     }
 }

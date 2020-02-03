@@ -1,4 +1,9 @@
 FormsViewGroup
+IconEntry.FormsPlugin.Android
+Lottie
+Lottie.Forms.Droid
+Plugin.FilePicker
+Plugin.XamJam.Screen
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Core.Runtime
 Xamarin.Android.Arch.Lifecycle.Common

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:fl="clr-namespace:Plugin.FilePicker.Abstractions;assembly=Plugin.FilePicker"
+             xmlns:lot="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
+             xmlns:ico="clr-namespace:IconEntry.FormsPlugin.Abstractions;assembly=IconEntry.FormsPlugin.Abstractions"
+             x:Class="testRenderers.MyPageRegistration">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="0,50,0,0" Orientation="Vertical">
+                <Grid  >
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="10" />
+                        <ColumnDefinition Width="{Binding }" />
+                        <ColumnDefinition Width="10" />
+                        <ColumnDefinition Width="{Binding }" />
+                        <ColumnDefinition Width="5" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                        <RowDefinition Height="20"/>
+                    </Grid.RowDefinitions>
+                     <Button
+                        BackgroundColor="White"
+                        Text="Image"
+                        x:Name="btnim"
+                        FontSize="25"
+                        FontAttributes="Bold"
+                        TextColor="Black"
+                        BorderColor="Black"
+                        Grid.RowSpan="4"
+                        BorderWidth="2"
+                        CornerRadius="20"
+                        Grid.Column="1"
+                        Grid.Row="0"
+                    />
+                   <ico:IconEntry
+                       Placeholder="{Binding}"
+                       Grid.Column="3"
+                       Grid.Row="0"
+                       Grid.RowSpan="2"
+                       x:Name="txtnom"
+                       />
+                    <ico:IconEntry
+                        Placeholder="{}"
+                        Text="{}"
+                        Grid.Column="3"
+                        Grid.Row="2"
+                        Grid.RowSpan="2"
+                        x:Name="txtprenom"
+
+                        />
+                    <Picker
+                        Grid.Row="4"
+                        Grid.Column="1"
+                        Grid.RowSpan="2"
+                        Grid.ColumnSpan="2"
+                        x:Name="pickerage"
+                   />
+                </Grid>
+               
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

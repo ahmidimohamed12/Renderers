@@ -54,6 +54,18 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="4.3.0.908675" />
     <PackageReference Include="Xamarin.Essentials" Version="1.3.1" />
+    <PackageReference Include="Com.Airbnb.Xamarin.Forms.Lottie">
+      <Version>2.0.0</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Plugin.FilePicker">
+      <Version>2.1.34</Version>
+    </PackageReference>
+    <PackageReference Include="Xam.Plugins.XamJam.Screen">
+      <Version>1.0.7</Version>
+    </PackageReference>
+    <PackageReference Include="Xam.FormsPlugin.IconEntry">
+      <Version>1.0.0</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
@@ -96,6 +108,9 @@
       <Project>{466215A2-2451-4AD2-8E04-1A7F6002B77C}</Project>
       <Name>testRenderers</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\foody.json" />
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>

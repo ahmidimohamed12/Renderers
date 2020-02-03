@@ -2,19 +2,19 @@
 <ContentPage
     xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:lb="clr-namespace:testRenderers.Controls"
+    xmlns:lt="clr-namespace:Lottie.Forms;assembly=Lottie.Forms"
     mc:Ignorable="d" x:Class="testRenderers.MainPage">
-    <StackLayout>
+    <StackLayout Orientation="Vertical">
         <!-- Place new controls here -->
-        <lb:LabelCol
-            Image="button.png"
-            FontAttributes="Bold"
-            ImageAlignment="Left"
-            ImageHeight="40"
-            ImageWidth="40"
-            WidthRequest="300"
-            FontSize="30"
-            HorizontalOptions="CenterAndExpand"
-            VerticalOptions="CenterAndExpand"
-            />
+        <StackLayout Orientation="Horizontal">
+            <lt:AnimationView
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand"
+                Loop="True"
+                AutoPlay="True"
+                IsPlaying="True"
+                Animation="foody.json"
+                />
+        </StackLayout>
     </StackLayout>
 </ContentPage>

@@ -1,15 +1,24 @@
-﻿<Properties StartupConfiguration="{DF7E00A4-B146-4A8D-AAF9-ED18D513426A}|Default">
+﻿<Properties StartupConfiguration="{F837BDDA-4A72-4FFC-B32F-2C29BD6AD3BD}|Default">
   <MonoDevelop.Ide.ItemProperties.testRenderers.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9BD459DC-3CD7-4785-B68B-2176DC4A96B5" />
   <MonoDevelop.Ide.ItemProperties.testRenderers.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="testRenderers.Android/iconeRen.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testRenderers/Models/Commands.cs">
     <Files>
-      <File FileName="testRenderers/MainPage.xaml" Line="13" Column="26" />
-      <File FileName="testRenderers/Controls/LabelCol.cs" Line="63" Column="2" />
-      <File FileName="testRenderers.Android/iconeRen.cs" Line="21" Column="72" />
-      <File FileName="testRenderers.iOS/IcRenderers.cs" Line="12" Column="6" />
-      <File FileName="testRenderers.iOS/AppDelegate.cs" Line="28" Column="1" />
-      <File FileName="testRenderers.iOS/AppDelegate.cs" Line="28" Column="1" />
-      <File FileName="testRenderers.Android/MainActivity.cs" Line="13" Column="10" />
+      <File FileName="testRenderers/MyPageRegistration.xaml" Line="61" Column="43" IsPinned="True" />
+      <File FileName="testRenderers/MyPageRegistration.xaml.cs" IsPinned="True" />
+      <File FileName="testRenderers/MainPage.xaml" />
+      <File FileName="testRenderers/Controls/LabelCol.cs" />
+      <File FileName="testRenderers.Android/iconeRen.cs" />
+      <File FileName="testRenderers.iOS/IcRenderers.cs" />
+      <File FileName="testRenderers.iOS/AppDelegate.cs" />
+      <File FileName="testRenderers.Android/MainActivity.cs" />
+      <File FileName="testRenderers/Models/User.cs" />
+      <File FileName="testRenderers/MainPage.xaml.cs" />
+      <File FileName="testRenderers/Pays_page.xaml" />
+      <File FileName="testRenderers/Pays_page.xaml.cs" />
+      <File FileName="testRenderers/Models/Pays.cs" />
+      <File FileName="testRenderers/Models/Ville.cs" />
+      <File FileName="testRenderers/Models/Resturants.cs" />
+      <File FileName="testRenderers/Models/Commands.cs" Line="6" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,12 +26,16 @@
           <Node name="testRenderers" expanded="True">
             <Node name="testRenderers" expanded="True">
               <Node name="Controls" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Commands.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MyPageRegistration.xaml" expanded="True" />
+              <Node name="Pays_page.xaml" expanded="True" />
             </Node>
             <Node name="testRenderers.Android" expanded="True">
-              <Node name="Resources" expanded="True">
-                <Node name="drawable" expanded="True" />
-              </Node>
-              <Node name="iconeRen.cs" selected="True" />
+              <Node name="Assets" expanded="True" />
+              <Node name="Resources" expanded="True" />
             </Node>
             <Node name="testRenderers.iOS" expanded="True">
               <Node name="Resources" expanded="True" />
